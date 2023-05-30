@@ -10,4 +10,4 @@ Currently trying to learn as many technical skills as I can!
 - ⭐ Waiting to make my 1st year course work "**Chess Express**" public. It's my super secret, not so secret chess engine.
 
 ### Cool Github stats! :D
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethiwe-mwendwa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lethiwe-mwendwa&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethiwe-mwendwa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lethiwe-mwendwa&show_icons=true&theme=dark)
