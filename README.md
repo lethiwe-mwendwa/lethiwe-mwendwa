@@ -3,6 +3,6 @@
 
 And I'm a Computer Science (Games Tech) student at Nottingham Trent University and a member of the Developers Society 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethiwe-mwendwa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lethiwe-mwendwa&show_icons=true&theme=radical)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lethiwe-mwendwa&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethiwe-mwendwa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
