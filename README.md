@@ -8,6 +8,3 @@ Currently trying to learn as many technical skills as I can!
 - 🛠️ Working on my **[Website](https://lethiwe-mwendwa.github.io)** and other cool top secret projects >:3
 - 🔭 Currently learning to use **SDL3**, **C++** and **Docker**
 - ⭐ Waiting to make my 1st year course work "**Chess Express**" public. It's my super secret, not so secret chess engine.
-
-### Cool stats! :D
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethiwe-mwendwa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
