@@ -6,5 +6,5 @@ Currently trying to learn as many technical skills as I can!
 - 🫂 CERT Mentor & Library Mentor at [Nottingham Trent University](https://www.ntu.ac.uk/)
 - 🖥️ Trainee Commitee member of the [Developers Society](https://github.com/NTUDevSoc)
 - 🛠️ Working on my **[Website](https://lethiwe-mwendwa.github.io)** and other cool top secret projects >:3
-- 🔭 Currently learning to use **SDL3**, **C++** and **Docker**
+- 🔭 Currently learning about *Homogeneous Coordinates* and *Perspective Projection* in my free time
 - ⭐ Waiting to make my 1st year course work "**Chess Express**" public. It's my super secret, not so secret chess engine.
