@@ -7,4 +7,5 @@ Currently trying to learn as many technical skills as I can!
 - 🖥️ Trainee Commitee member of the [Developers Society](https://github.com/NTUDevSoc)
 - 🛠️ Working on my **[Website](https://lethiwe-mwendwa.github.io)** and other cool top secret projects >:3
 - 🔭 Currently learning about **Homogeneous Coordinates** and **Perspective Projection** in my free time
+- 🧑‍🔬 Messing around with programming projection in **[Vertex Cortex](https://github.com/lethiwe-mwendwa/Vertex_Cortex)**
 - ⭐ Waiting to make my 1st year course work "**Chess Express**" public. It's my super secret, not so secret chess engine.
