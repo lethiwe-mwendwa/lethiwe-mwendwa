@@ -4,7 +4,7 @@ Currently trying to learn as many technical skills as I can!
 
 ### Lil more about me
 - 🫂 CERT Mentor & Library Mentor at [Nottingham Trent University](https://www.ntu.ac.uk/)
-- 🖥️ Trainee Commitee member of [NTU's Developer Society](https://github.com/NTUDevSoc)
+- 🖥️ Commitee member of [NTU's Developer Society](https://github.com/NTUDevSoc)
 - 🛠️ Working on my **[Website](https://lethiwe-mwendwa.github.io)** and other cool top secret projects >:3
 - 🔭 Currently learning about **Homogeneous Coordinates** and **Perspective Projection** in my free time
 - 🧑‍🔬 Messing around with programming 3D projection in **[Vertex Cortex](https://github.com/lethiwe-mwendwa/Vertex_Cortex)**
