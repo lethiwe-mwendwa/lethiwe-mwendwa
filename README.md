@@ -11,6 +11,7 @@ Currently trying to learn as many technical skills as I can!
 - 📝 Coming up with more rhyme-y names for my future projects....
 
 <p align="center">
-![](https://github.com/lethiwe-mwendwa/lethiwe-mwendwa/blob/main/Sonic.gif)
+  <img src="Sonic.gif" alt="animated" />
 </p>
+
 
