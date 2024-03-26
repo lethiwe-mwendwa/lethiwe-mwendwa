@@ -10,3 +10,6 @@ Currently trying to learn as many technical skills as I can!
 - 🧑‍🔬 Messing around with programming 3D projection in **[Vertex Cortex](https://github.com/lethiwe-mwendwa/Vertex_Cortex)**
 - ⭐ Developing my 1st year course work **[Chess Express](https://github.com/lethiwe-mwendwa/chess-express)** further
 - 📝 Coming up with more rhyme-y names for my future projects....
+
+
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/lethiwe-mwendwa/lethiwe-mwendwa/blob/main/Sonic.mp4)https://github.com/lethiwe-mwendwa/lethiwe-mwendwa/blob/main/Sonic.mp4)
