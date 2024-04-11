@@ -11,7 +11,7 @@ Currently trying to learn as many technical skills as I can!
 - 📝 Coming up with more rhyme-y names for my future projects....
 
 <p align="center">
-  <img src="Sonic.gif" alt="animated" />
+  <img src="TetiRun.gif" alt="animated" />
 </p>
 
 
