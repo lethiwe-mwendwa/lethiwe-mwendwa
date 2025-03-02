@@ -1,5 +1,5 @@
 ## Hello!! 😼😼😼 
-My name is Lethiwe *(Le-ti-we)* and I'm a BSc Computer Science (Games Tech) student at [Nottingham Trent University](https://www.ntu.ac.uk/) . I like Animating, Maths, Physics Gaming and Programming.
+My name is Lethiwe *(Le-ti-we)* and I'm a BSc Computer Science (Games Tech) student at [Nottingham Trent University](https://www.ntu.ac.uk/) . I like animation, maths, physics, writing and programming.
 Currently trying to learn as many technical skills as I can!
 
 <p align="center">
