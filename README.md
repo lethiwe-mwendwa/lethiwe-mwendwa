@@ -4,6 +4,7 @@ Currently trying to learn as many technical skills as I can!
 
 <p align="center">
   <img src="TetiRun.gif" alt="animated" width="250" height="250" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lethiwe-mwendwa)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 - 🫂 Former CERT Mentor & Library Mentor at [Nottingham Trent University](https://www.ntu.ac.uk/)
