@@ -14,5 +14,5 @@ Currently trying to learn as many technical skills as I can!
 - 📝 Coming up with more rhyme-y names for my future projects....
 
 <p align="center">
-  <img src="https://www.codewars.com/users/NotLethiwe/badges/small" width="250" height="250" />
+  <img src="https://www.codewars.com/users/NotLethiwe/badges/small"/>
 </p>
