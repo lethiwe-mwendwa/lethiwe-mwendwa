@@ -12,3 +12,7 @@ Currently trying to learn as many technical skills as I can!
 - 🛠️ Working on my **[Website](https://lethiwe-mwendwa.github.io)** and other cool top secret projects >:3
 - 🧑‍🔬 Messing around with programming 3D projection in **[Vertex Cortex](https://github.com/lethiwe-mwendwa/Vertex_Cortex)**
 - 📝 Coming up with more rhyme-y names for my future projects....
+
+<p align="center">
+  <img src="https://www.codewars.com/users/NotLethiwe/badges/small" width="250" height="250" />
+</p>
