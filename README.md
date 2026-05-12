@@ -4,10 +4,11 @@ Currently trying to learn as many technical skills as I can!
 
 - 🫂 Former CERT Mentor & Library Mentor at [Nottingham Trent University](https://www.ntu.ac.uk/)
 - 🖥️ Commitee Alumni of [NTU's Developer Society](https://github.com/NTUDevSoc)
-- 🔭 Currently learning about **Rigid Body Dynamics**, **Partial DIfferential Equations**  and **CUDA** in my free time
+- 🔭 Currently learning about **Rigid Body Dynamics**, **Partial DIfferential Equations** and **CUDA** in my free time
 - 🛠️ Working on my **[Website](https://lethiwe-mwendwa.github.io)** and other top secret projects >:3
-- 🧑‍🔬 Messing around with programming 3D projection in **[Vertex Cortex](https://github.com/lethiwe-mwendwa/Vertex_Cortex)**
+- 🧑‍🔬 Messing around with creating a rendering framework and pipeline from scratch in **[VertexCortex Purified](https://github.com/lethiwe-mwendwa/VertexCortex-Purified)**
 - 😼 Practicing Haskell on codewars
+- 🎓 Waiting to graduate in July 2026
 - 📝 Coming up with more rhyme-y names for my future projects....
 
 <p align="center">
